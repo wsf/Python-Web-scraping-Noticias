@@ -1,41 +1,5 @@
 {
   "CNN": {
-    "link": "https://cnnespanol.cnn.com/"
-  },
-  "El Financciero": {
-    "link": "http://www.elfinanciero.com.mx/"
-  },
-  "Forbes Mexico": {
-    "link": "https://www.forbes.com.mx/"
-  },
-  "Verge": {
-    "rss": "https://www.theverge.com/rss/index.xml",
-    "link": "https://www.theverge.com/"
-  },
-  "Wired": {
-    "rss": "https://www.wired.com/feed/category/culture/latest/rss",
-    "link": "https://www.wired.com/"
-  },
-  "Genbeta":{
-  	"link": "https://www.genbeta.com/"
-  },
-  "Cine Premier":{
-  	"rss": "https://www.cinepremiere.com.mx/feed",
-  	"link": "https://www.cinepremiere.com.mx/"
-  },
-  "Xataka":{
-    "link": "https://www.xataka.com"
-  },
-  "Medium":{
-    "link": "https://medium.com/"
-  },
-  "Espinof":{
-    "link": "https://www.espinof.com/"
-  },
-  "Xataka Ciencia":{
-  	"link": "https://www.xatakaciencia.com/"
-  },
-  "Vida Extra":{
-  	"link": "https://www.vidaextra.com/"
+    "link": "https://www.ellitoral.com/"
   }
 }

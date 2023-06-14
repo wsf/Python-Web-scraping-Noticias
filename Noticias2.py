@@ -14,8 +14,8 @@ datos = {}
 datos['Noticias'] = {}
 
 
-# todo: armar el mismo json tomando los datos del modelo llamado: medios
 # Llamar al archivo JSON
+
 with open('paginas.json') as archivos_datos:
     paginas = json.load(archivos_datos)
 
@@ -101,8 +101,6 @@ for pagina, valor in paginas.items():
             noneTypecontador = 0
 
     contador = 1
-
-    #todo: en este lugar se debería hacer el isert al modelo resultado
     datos['Noticias'][pagina] = newsPaper
 
 
